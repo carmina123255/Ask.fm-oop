@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698430129 source:c:\users\thinkpad\onedrive\desktop\z90309l13\files_in_c++\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1697347046 c:\users\thinkpad\onedrive\desktop\z90309l13\files_in_c++\student.h
+
+1697671225 c:\users\thinkpad\onedrive\desktop\z90309l13\files_in_c++\oop.h
+	<bits/stdc++.h>
+
